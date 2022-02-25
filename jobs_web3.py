@@ -48,10 +48,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-if __name__ == '__main__':
-    # schedule.every(10).seconds.do(web3Functions)
-
-    # while 1:
-    #     schedule.run_pending()
-    #     time.sleep(1)
-    main()
