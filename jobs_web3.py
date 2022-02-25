@@ -1,5 +1,4 @@
-#import schedule
-# import time
+
 from pyflink.datastream import StreamExecutionEnvironment
 from pyflink.table import StreamTableEnvironment
 from pyflink.common.typeinfo import Types
@@ -10,20 +9,14 @@ from pyflink.common.serialization import Encoder
 from pyflink.common import WatermarkStrategy, Row
 from pyflink.datastream.functions import KeyedProcessFunction, RuntimeContext, MapFunction
 
-# def web3Functions():
-#     web3 = Web3(Web3.WebsocketProvider("wss://eth-mainnet.alchemyapi.io/v2/NMMzTK9vae0CA0DrxtR_TiqCHkf3qkqD"))
-#     web3.middleware_onion.inject(geth_poa_middleware, layer=0) 
-#     block = web3.eth.get_block('latest').number 
-#     for tx_hash in web3.eth.get_block(block).transactions:
-#         contractAddress = web3.eth.getTransactionReceipt(tx_hash).to
-#         print(contractAddress, block)
-#         return contractAddress,block
+
 
 class MyMapFunction(MapFunction):
     def map(self, value):
         web3 = Web3(Web3.WebsocketProvider("wss://eth-mainnet.alchemyapi.io/v2/NMMzTK9vae0CA0DrxtR_TiqCHkf3qkqD"))
         web3.middleware_onion.inject(geth_poa_middleware, layer=0) 
-        block = web3.eth.get_block('latest').number 
+        #block = web3.eth.get_block('latest').number 
+        block = self.value()
         for tx_hash in web3.eth.get_block(block).transactions:
             contractAddress = web3.eth.getTransactionReceipt(tx_hash).to
             print(contractAddress, block)
@@ -42,15 +35,18 @@ def main():
     
     ds = env.from_source(
         source=seq_num_source,
-        watermark_strategy=WatermarkStrategy.for_monotonous_timestamps(),
+        #watermark_strategy=WatermarkStrategy.for_monotonous_timestamps(),
         source_name='seq_num_source',
-        type_info=Types.LONG())
+        type_info=Types.INT())
 
-    ds.map(MyMapFunction(), output_type=Types.LONG())
+    ds.map(MyMapFunction(), output_type=Types.STRING())
     
     env.execute('new')
 
 
+
+if __name__ == '__main__':
+    main()
 
 if __name__ == '__main__':
     # schedule.every(10).seconds.do(web3Functions)
