@@ -1,0 +1,114 @@
+2022-02-25 17:58:33 root         INFO     Starting sales producer
+2022-02-25 18:00:21 root         INFO     Starting sales producer
+2022-02-25 18:04:24 root         INFO     Starting sales producer
+2022-02-25 18:04:53 root         INFO     Produced {'address': '0xE33CB50a2090211AE988231bA0fbAB9eb6d5eA70', 'block': 14275275} to topic address-block partition 0 offset 17
+2022-02-25 18:05:55 root         INFO     Starting sales producer
+2022-02-25 18:08:33 root         INFO     Starting sales producer
+2022-02-25 18:09:34 root         INFO     Starting sales producer
+2022-02-25 18:12:32 root         INFO     Starting sales producer
+2022-02-25 18:13:44 root         INFO     Starting sales producer
+2022-02-25 18:16:06 root         INFO     Starting sales producer
+2022-02-25 18:19:09 root         INFO     Starting sales producer
+2022-02-25 18:20:12 root         INFO     Produced {'address': '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F', 'block': 14275341} to topic address-block partition 0 offset 33
+2022-02-25 18:20:39 root         INFO     Produced {'address': '0x1bdaC750132EB91E569f6fD2582d2D67F6f1ea0c', 'block': 14275346} to topic address-block partition 0 offset 43
+2022-02-25 18:21:08 root         INFO     Produced {'address': '0x8aFF5cA996F77487a4f04F1ce905Bf3d27455580', 'block': 14275350} to topic address-block partition 0 offset 53
+2022-02-25 18:21:37 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275353} to topic address-block partition 0 offset 63
+2022-02-25 18:22:04 root         INFO     Produced {'address': '0xcAdb0F4647D940A444C2BE557C2256cCB6492bBC', 'block': 14275355} to topic address-block partition 0 offset 73
+2022-02-25 18:22:31 root         INFO     Produced {'address': '0x0016C0d0343e8f2c3A7b6A51606B84B1545Ec606', 'block': 14275359} to topic address-block partition 0 offset 83
+2022-02-25 18:22:59 root         INFO     Produced {'address': '0x63edf5463e96108B382806dc6b484065e1Aa8A29', 'block': 14275360} to topic address-block partition 0 offset 93
+2022-02-25 18:23:26 root         INFO     Produced {'address': '0x63edf5463e96108B382806dc6b484065e1Aa8A29', 'block': 14275360} to topic address-block partition 0 offset 103
+2022-02-25 18:31:56 root         INFO     Starting sales producer
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275403} to topic address-block partition 0 offset 108
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275403} to topic address-block partition 0 offset 109
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275403} to topic address-block partition 0 offset 110
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275403} to topic address-block partition 0 offset 111
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275403} to topic address-block partition 0 offset 112
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275403} to topic address-block partition 0 offset 113
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275403} to topic address-block partition 0 offset 114
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275403} to topic address-block partition 0 offset 115
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275404} to topic address-block partition 0 offset 116
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275404} to topic address-block partition 0 offset 117
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275404} to topic address-block partition 0 offset 118
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275404} to topic address-block partition 0 offset 119
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 120
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 121
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 122
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 123
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 124
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 125
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 126
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 127
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 128
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 129
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275405} to topic address-block partition 0 offset 130
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x6DF9f42eBf6B0766385D2549BDF5eD6e4a9B95A3', 'block': 14275406} to topic address-block partition 0 offset 131
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x6DF9f42eBf6B0766385D2549BDF5eD6e4a9B95A3', 'block': 14275406} to topic address-block partition 0 offset 132
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x6DF9f42eBf6B0766385D2549BDF5eD6e4a9B95A3', 'block': 14275406} to topic address-block partition 0 offset 133
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x6DF9f42eBf6B0766385D2549BDF5eD6e4a9B95A3', 'block': 14275406} to topic address-block partition 0 offset 134
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x6DF9f42eBf6B0766385D2549BDF5eD6e4a9B95A3', 'block': 14275406} to topic address-block partition 0 offset 135
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x6DF9f42eBf6B0766385D2549BDF5eD6e4a9B95A3', 'block': 14275406} to topic address-block partition 0 offset 136
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 137
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 138
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 139
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 140
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 141
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 142
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 143
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 144
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 145
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 146
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 147
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 148
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 149
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275407} to topic address-block partition 0 offset 150
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x711A339c002386f9db409cA55b6A35a604aB6cF6', 'block': 14275409} to topic address-block partition 0 offset 151
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x711A339c002386f9db409cA55b6A35a604aB6cF6', 'block': 14275409} to topic address-block partition 0 offset 152
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x711A339c002386f9db409cA55b6A35a604aB6cF6', 'block': 14275409} to topic address-block partition 0 offset 153
+2022-02-25 18:33:53 root         INFO     Produced {'address': '0x711A339c002386f9db409cA55b6A35a604aB6cF6', 'block': 14275409} to topic address-block partition 0 offset 154
+2022-02-25 18:46:31 root         INFO     Starting sales producer
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x8aFF5cA996F77487a4f04F1ce905Bf3d27455580', 'block': 14275467} to topic address-block partition 0 offset 155
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275466} to topic address-block partition 0 offset 156
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x00328ca21100054700d065f700A555009c760000', 'block': 14275465} to topic address-block partition 0 offset 157
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x0344b341EA5EA93334f0F9681cf13a161254527D', 'block': 14275464} to topic address-block partition 0 offset 158
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x0000000000007F150Bd6f54c40A34d7C3d5e9f56', 'block': 14275463} to topic address-block partition 0 offset 159
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275462} to topic address-block partition 0 offset 160
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x5C57e077414b06A2FCA57C931C4D128dB9402d1E', 'block': 14275461} to topic address-block partition 0 offset 161
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x3AF4ea5614f21e23B2398a62E1e20FE3D8b2fB7F', 'block': 14275460} to topic address-block partition 0 offset 162
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2', 'block': 14275459} to topic address-block partition 0 offset 163
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275458} to topic address-block partition 0 offset 164
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x3fC5ABB1925C832934A4CbacfDF4dA48A8716727', 'block': 14275457} to topic address-block partition 0 offset 165
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF', 'block': 14275456} to topic address-block partition 0 offset 166
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xBDCD32083e8d720B4Ae1F439d40FAE13D2845cCC', 'block': 14275455} to topic address-block partition 0 offset 167
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x97Ce82CCb3d8D6a02c87799f1d8d8aF4dAD77A0e', 'block': 14275454} to topic address-block partition 0 offset 168
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F', 'block': 14275453} to topic address-block partition 0 offset 169
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xC36442b4a4522E871399CD717aBDD847Ab11FE88', 'block': 14275452} to topic address-block partition 0 offset 170
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x5Ab34931d83f683B065D0A5907dcA0667Ba85161', 'block': 14275451} to topic address-block partition 0 offset 171
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xBEb191d7B687d0aE0Ea2c006a00d7F58EdfF13a2', 'block': 14275450} to topic address-block partition 0 offset 172
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x0000E0Ca771e21bD00057F54A68C30D400000000', 'block': 14275449} to topic address-block partition 0 offset 173
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x5B2dC8c02728e8FB6aeA03a622c3849875A48801', 'block': 14275448} to topic address-block partition 0 offset 174
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x74D8353A2cE55b41828075F406b0e42001BCd00b', 'block': 14275447} to topic address-block partition 0 offset 175
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x70526cc7a6d6320B44122ea9d2d07670ACcC85A1', 'block': 14275446} to topic address-block partition 0 offset 176
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x3AF4ea5614f21e23B2398a62E1e20FE3D8b2fB7F', 'block': 14275445} to topic address-block partition 0 offset 177
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x11C9e460dadBE53220c8F0ceE81698bf8A1fe565', 'block': 14275444} to topic address-block partition 0 offset 178
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x5B2dC8c02728e8FB6aeA03a622c3849875A48801', 'block': 14275443} to topic address-block partition 0 offset 179
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x1d6E8BAC6EA3730825bde4B005ed7B2B39A2932d', 'block': 14275442} to topic address-block partition 0 offset 180
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xF411903cbC70a74d22900a5DE66A2dda66507255', 'block': 14275441} to topic address-block partition 0 offset 181
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x0000000099cB7fC48a935BcEb9f05BbaE54e8987', 'block': 14275440} to topic address-block partition 0 offset 182
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x5B2dC8c02728e8FB6aeA03a622c3849875A48801', 'block': 14275439} to topic address-block partition 0 offset 183
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xbc7cf1831fa4F3eb7b4C4251BEa8e035Ceb60AE7', 'block': 14275438} to topic address-block partition 0 offset 184
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x34d7d6B975BA758cC3Dd9278C93e8cA4c6C2429b', 'block': 14275437} to topic address-block partition 0 offset 185
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x98C3d3183C4b8A650614ad179A1a98be0a8d6B8E', 'block': 14275436} to topic address-block partition 0 offset 186
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xE6E90bC9F3b95cdB69F48c7bFdd0edE1386b135a', 'block': 14275435} to topic address-block partition 0 offset 187
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x8aFF5cA996F77487a4f04F1ce905Bf3d27455580', 'block': 14275434} to topic address-block partition 0 offset 188
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x498c5431EB517101582988fBb36431DdaaC8F4B1', 'block': 14275433} to topic address-block partition 0 offset 189
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xe1f08D771FB7B248B3266B7F79A9eAfBA3147c2D', 'block': 14275432} to topic address-block partition 0 offset 190
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x70526cc7a6d6320B44122ea9d2d07670ACcC85A1', 'block': 14275431} to topic address-block partition 0 offset 191
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x8aFF5cA996F77487a4f04F1ce905Bf3d27455580', 'block': 14275430} to topic address-block partition 0 offset 192
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0xA7EFAe728D2936e78BDA97dc267687568dD593f3', 'block': 14275429} to topic address-block partition 0 offset 193
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x197756BA0c66B7Fc6972B0b461836be99e7e3046', 'block': 14275428} to topic address-block partition 0 offset 194
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x70526cc7a6d6320B44122ea9d2d07670ACcC85A1', 'block': 14275427} to topic address-block partition 0 offset 195
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x3624525075b88B24ecc29CE226b0CEc1fFcB6976', 'block': 14275426} to topic address-block partition 0 offset 196
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x3FDA25F27211a138ADF211F4C060f2149674Be6D', 'block': 14275425} to topic address-block partition 0 offset 197
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x70526cc7a6d6320B44122ea9d2d07670ACcC85A1', 'block': 14275424} to topic address-block partition 0 offset 198
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x8aFF5cA996F77487a4f04F1ce905Bf3d27455580', 'block': 14275423} to topic address-block partition 0 offset 199
+2022-02-25 18:47:01 root         INFO     Produced {'address': '0x000000000dFDe7deaF24138722987c9a6991e2D4', 'block': 14275422} to topic address-block partition 0 offset 200
